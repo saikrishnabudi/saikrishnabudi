@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate data scientist and machine learning enthusiast with a love for turning raw data into actionable insights. Proficient in Python, R, and SQL, I specialize in leveraging AI models for impactful solutions. 
+Passionate Data scientist and machine learning enthusiast with a love for turning raw data into actionable insights. Proficient in Python, R, and SQL, I specialize in leveraging AI models for impactful solutions. 
 
 
 ## 🌐 Socials:
