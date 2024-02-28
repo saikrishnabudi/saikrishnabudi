@@ -18,9 +18,6 @@ Passionate Data scientist and machine learning enthusiast with a love for turnin
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saikrishnabudi&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=saikrishnabudi&icon=5&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![](https://visitcount.itsvg.in/api?id=saikrishnabudi&label=Profile%20Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
