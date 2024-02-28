@@ -21,3 +21,7 @@ Passionate Data scientist and machine learning enthusiast with a love for turnin
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![](https://visitcount.itsvg.in/api?id=saikrishnabudi&label=Profile%20Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=saikrishnabudi&label=Profile%20Views&color=1&icon=8&pretty=false" />
+</a>
