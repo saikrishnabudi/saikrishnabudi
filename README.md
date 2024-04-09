@@ -1,8 +1,7 @@
 # 💫 About Me:
 Passionate Data scientist and machine learning enthusiast with a love for turning raw data into actionable insights. 
 
-**Tech Proficient:
-**
+Tools & Technologies:
 
 Python Packages
 
