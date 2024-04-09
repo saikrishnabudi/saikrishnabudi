@@ -1,6 +1,15 @@
 # 💫 About Me:
-Passionate Data scientist and machine learning enthusiast with a love for turning raw data into actionable insights. Proficient in Python, R, and SQL, I specialize in leveraging AI models for impactful solutions. 
+Passionate Data scientist and machine learning enthusiast with a love for turning raw data into actionable insights. 
 
+Tech Proficient:
+
+Python Packages
+
+Machine Learning Models
+
+Deep Learning
+
+NLP
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/sai-krishna-budi-3b0341209) 
