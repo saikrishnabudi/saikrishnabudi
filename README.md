@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### Passionate Data scientist and machine learning enthusiast with a love for turning raw data into actionable insights. 
+#### As a Data scientist i love to turning raw data into actionable insights. 
 
 Tools & Technologies:
 
