@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### As a Data scientist i love to turning raw data into actionable insights. 
+#### As a Data scientist i love to turning the raw data into actionable insights. 
 
 Tools & Technologies:
 
